@@ -1,0 +1,16 @@
+{
+  "MySqlConnection": {
+    "MySqlConnectionString": "Server=localhost;Port=3306;Database=teste_webmotors;Uid=root;Pwd=180175;SslMode=none;"
+  },
+  "Logging": {
+    "IncludeScopes": false,
+    "LogLevel": {
+      "Default": "Warning"
+    }
+  },
+  "AllowedHosts": "*",
+  "UriWebMotors": "http://desafioonline.webmotors.com.br/api/OnlineChallenge/",
+  "iisExpress": {
+    "applicationUrl": "http://localhost:57501"
+  }
+}
